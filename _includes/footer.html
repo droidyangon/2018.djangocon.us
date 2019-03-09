@@ -1,29 +1,16 @@
 <footer class="footer" role="contentinfo">
 
   <a class="footer-logo" href="{{ site.url }}">
-    {% include logo.svg.html %}
+     <img
+        data-interchange="[{{ "/static/img/logo.png" | relative_url }}, small], [{{ "/static/img/logo.png" | relative_url }}, medium]"
+        alt="YBS and Android"
+        class="header-img" width="380" />
   </a>
 
   <div class="row column">
     <ul class="social-icons">
       <li>
-        <a class="twitter" href="https://twitter.com/djangocon">
-          <svg class="social-icon">
-            <title>Twitter</title>
-            <use xlink:href="#twitter-icon"></use>
-          </svg>
-        </a>
-      </li>
-      <li>
-        <a class="github" href="https://github.com/djangocon/">
-          <svg class="social-icon">
-            <title>Github</title>
-            <use xlink:href="#github-icon"></use>
-          </svg>
-        </a>
-      </li>
-      <li>
-        <a class="facebook" href="https://www.facebook.com/djangoconus/">
+        <a class="facebook" href="https://www.facebook.com/DroidYangon/">
           <svg class="social-icon">
             <title>Facebook</title>
             <use xlink:href="#facebook-icon"></use>
@@ -50,11 +37,5 @@
       </strong>
     </p>
 
-    <small class="legal text-center">
-      &copy; {{ site.time | date: '%Y' }} DjangoCon US
-      &middot; Design by <a href="http://yupgup.com/">YupGup</a>
-      &middot; Presented by <a href="https://www.defna.org/">DEFNA</a>
-      &middot; <a href="/colophon/">Colophon</a>
-    </small>
   </div>
 </footer>

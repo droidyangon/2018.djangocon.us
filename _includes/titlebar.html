@@ -1,7 +1,10 @@
 <nav class="title-bar headroom headroom--top">
   <div class="title-bar-left">
       <a class="logo" href="/">
-        {% include logo.svg.html %}
+      <img
+        data-interchange="[{{ "/static/img/logo.png" | relative_url }}, small], [{{ "/static/img/logo.png" | relative_url }}, medium]"
+        alt="YBS and Android"
+        class="header-img" width="380" />
       </a>
   </div>
   <div class="title-bar-right">

@@ -2,7 +2,7 @@
 layout: base
 permalink: /sponsors/
 heading: Sponsors
-description: DjangoCon US is only possible through the support of various organizations.
+description: DroidYangon is only possible through the support of various organizations.
 ---
 
 <header class="subpage-header">
@@ -10,22 +10,22 @@ description: DjangoCon US is only possible through the support of various organi
 </header>
 
 <div class="content">
-  <div class="row column v-pad-bottom">
+  {% comment %} <div class="row column v-pad-bottom">
     <div class="medium-6 large-7 column">
       <p class="lead">
-        DjangoCon US is only possible through the generosity of the organizations and businesses on this page. Their donations make it possible for us to provide financial support to speakers and attendees, record all talks, host sprints, and feed everyone for six days. Thank you for your support!
+        DroidYangon is only possible through the generosity of the organizations and businesses on this page. Their donations make it possible for us to provide support to speakers and attendees. Thank you for your support!
       </p>
     </div>
     <div class="medium-5 large-4 column">
       <div class="callout text-center partner-cta-box">
-        <h2>Sponsor DjangoCon US</h2>
-        <p>Sponsorship for 2018 is now closed. But you can support the community who builds and supports the software you use by signing up as a 2019 conference sponsor!</p>
-        <a href="/sponsors/information/" class="button hollow theme-shakespeare">Become a Sponsor for 2019</a>
+        <h2>Sponsor DroidYangon</h2>
+        <p>Sponsorship for 2019 is now closed. But you can support the community who builds and supports the software you use by signing up as a 2019 conference sponsor!</p>
+        <a href="/sponsors/information/" class="button hollow theme-shakespeare">Become a Sponsor for 2020</a>
       </div>
     </div>
-  </div>
+  </div> {% endcomment %}
 
-{% assign sponsors_by_level = "Platinum|Gold|Silver|Bronze|Diversity & Inclusion|Community" | split: "|" %}
+{% assign sponsors_by_level = "Platinum|Gold|Silver|" | split: "|" %}
 {% for level in sponsors_by_level %}
   <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
     <h2 class="text-center v-pad-bottom">{{ level }}</h2>

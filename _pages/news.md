@@ -2,6 +2,6 @@
 title: News
 permalink: /news/
 layout: post-list
-description: The latest DjangoCon US 2018 news.
+description: The latest DroidYangon 2019 news.
 heading: News
 ---
