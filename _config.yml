@@ -81,8 +81,8 @@ defaults:
       image: /static/img/social/avatar-main.png
 
 # Our DjangoCon US settings...
-contact_us_email: "hello@droidyangon.org"
-sponsors_email: "partners@droidyangon.org"
+contact_us_email: "info@droidyangon.org"
+sponsors_email: "sponsors@droidyangon.org"
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"
