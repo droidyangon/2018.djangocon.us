@@ -23,7 +23,7 @@ years with minimal alterations.
 ### Typefaces
 
 * [Signika](https://fonts.google.com/specimen/Signika) - Secondary typeface for logo
-* [Soure Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) - Used in body copy throughout website
+* [Soure Sans Pro](https://fonts.google.com/specimen/Roboto) - Used in body copy throughout website
 
 
 
