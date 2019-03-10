@@ -1,13 +1,13 @@
 ---
 layout: base
 
-name: "Broken Yolk Cafe"
+name: "Rangoon Tea House"
 hidden: false
 photo_url: "/static/img/places/brokenyolk.jpg"
-location: "1760 Camino Del Rio N"
-distance: ".6mi away"
-map: "https://goo.gl/maps/jVkV8JW2zmq"
+location: "Ground Floor, 77-79 Pansodan Rd (Lower Middle Block)"
+distance: "3.6km away"
+map: "https://goo.gl/maps/AND7aa4jBso"
 website: "https://www.thebrokenyolkcafe.com/mission-valley/"
 description: |
-    A San Diego all-day breakfast spot known for high quality and large portions.
+    Modern burmese cuisine, tea house & bakery.
 ---

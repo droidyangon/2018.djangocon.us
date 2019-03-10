@@ -6,6 +6,6 @@ permalink: /speaking/
 description: Information about submitting a proposal to speak at DjangoCon US
 ---
 
-## Why speak at DroidYangon US?
+## Why speak at DroidYangon 2019?
 
 Coming Soon
