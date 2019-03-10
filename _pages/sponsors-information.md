@@ -22,7 +22,7 @@ Sponsoring DroidYangon can help you:
 <!---
 ## Interested in Sponsoring?
 
-Sponsorship is closed for this year. But we're recruiting for DjangoCon US 2019! <strong><a href="mailto:{{site.sponsors_email}}">Send us an email!</a></strong> We're here to help make the process of becoming a sponsor as easy as we can!
+Sponsorship is closed for this year. But we're recruiting for DroidYangon 2019! <strong><a href="mailto:{{site.sponsors_email}}">Send us an email!</a></strong> We're here to help make the process of becoming a sponsor as easy as we can!
 --->
 {% comment %}
 #### Booth info

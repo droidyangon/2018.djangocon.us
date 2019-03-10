@@ -1,10 +1,10 @@
 # Code of Conduct
 
-DjangoCon US is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
+DroidYangon is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. 
 
-Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for DjangoCon US. 
+Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for DroidYangon. 
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers. 
 
@@ -13,27 +13,27 @@ Thank you for helping make this a welcoming, friendly event for all.
 ## Full Code of Conduct
 
 _To make clear what is expected, all delegates/attendees, speakers,
-exhibitors, organizers and volunteers at any DjangoCon US event are required
+exhibitors, organizers and volunteers at any DroidYangon event are required
 to conform to the following Code of Conduct. Organizers will enforce this code
 throughout the event._
 
 ### What the conference is
 
-DjangoCon US is a community conference intended for networking and
+DroidYangon is a community conference intended for networking and
 collaboration in the developer community.
 
 We value the participation of each member of the Django community and want all
 attendees to have an enjoyable and fulfilling experience. Accordingly, all
 attendees are expected to show respect and courtesy to other attendees
 throughout the conference, at all conference events, and in all conference
-online spaces (such as Slack), whether officially sponsored by DjangoCon US or
+online spaces (such as Slack), whether officially sponsored by DroidYangon or
 not.
 
 ### Be Kind To Others
 
 Do not insult or put down other attendees. Behave professionally. Remember
 that harassment and sexist, racist, or exclusionary jokes are not appropriate
-for DjangoCon US. Attendees violating these rules may be asked to leave the
+for DroidYangon. Attendees violating these rules may be asked to leave the
 conference without a refund at the sole discretion of the conference
 organizers.
 
@@ -54,7 +54,7 @@ unwelcome sexual attention.
 
 Be careful in the words that you choose. Remember that sexist, racist, and
 other exclusionary jokes can be offensive to those around you. Excessive
-swearing and offensive jokes are not appropriate for DjangoCon US. We are all
+swearing and offensive jokes are not appropriate for DroidYangon. We are all
 adults, capable of having adult conversations. Preface your presentation with
 appropriate Trigger/Content Warnings, if necessary.
 
@@ -73,7 +73,7 @@ or otherwise create a sexualized environment.
 
 ## Photography
 
-In order to make DjangoCon US 2018 a great experience for everyone, do not
+In order to make DroidYangon 2019 a great experience for everyone, do not
 photograph, video, or audio record anyone at DjangoCon without their express
 permission, sought in advance. If someone does not want to be photographed,
 video or audio recorded, please respect their wishes.

@@ -1,13 +1,13 @@
 ---
 layout: base
 
-name: "In-n-Out Burger"
+name: "Shan Yoe Yar"
 hidden: false
-photo_url: "/static/img/places/in-n-out.jpg"
-location: "2005 Camino Del Este"
-distance: ".6mi away"
-map: "https://goo.gl/maps/AX7GbT2X4Zx"
-website: "http://www.in-n-out.com"
+photo_url: "/static/img/places/shanyoeyar.jpg"
+location: "No. 169, Wa Dan Street"
+distance: "1km away"
+map: "https://goo.gl/maps/CgZSmcxgBf22"
+website: "https://www.tripadvisor.com/Restaurant_Review-g294191-d4492468-Reviews-Shan_Yoe_Yar-Yangon_Rangoon_Yangon_Region.html"
 description: |
-    The classic California no frills burger drive thru. Open until at least 1am.
+    Shan traditional cuisines - Vegetarian Friendly
 ---

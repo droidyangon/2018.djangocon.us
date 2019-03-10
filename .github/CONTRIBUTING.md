@@ -1,8 +1,8 @@
-# Contributing to DjangoCon US 2018
+# Contributing to DroidYangon 2019
 
 :thumbsup: :tada: Thank you so much for taking the time to contribute! :tada: :thumbsup:
 
-The following is a set of guidelines for contributing to DjangoCon US 2018.
+The following is a set of guidelines for contributing to DroidYangon 2019.
 
 
 ## How Can I Help?
@@ -24,7 +24,7 @@ If you find any bugs, it would be great if you would let us know so we can look 
 
 ### Checklist for Reporting an Issue
 
-When submitting an issue to the DjangoCon US website repo, please follow these guidelines:
+When submitting an issue to the DroidYangon website repo, please follow these guidelines:
 
 - [ ] Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
 - [ ] Review existing open issues to ensure that your issue hasn't already been reported
@@ -61,7 +61,7 @@ After you've created a patch that fixes an issue, please submit a pull request f
 
 ### Pull Request Checklist
 
-When submitting a pull request to the DjangoCon US website repo, please follow these guidelines:
+When submitting a pull request to the DroidYangon website repo, please follow these guidelines:
 
 - [ ] Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
 - [ ] If you are closing an outstanding issue, tag the issue in your pull request comment

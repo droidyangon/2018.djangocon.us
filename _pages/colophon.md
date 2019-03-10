@@ -6,7 +6,7 @@ permalink: /colophon/
 description: Thank you to those who have inspired us
 ---
 
-We are grateful to the past organizers of DjangoCon US and of other events for their help and inspiration. The following is an incomplete list of organizations and conferences whose positive example, advice, and generosity have helped make DjangoCon US the welcoming conference it is today.
+We are grateful to the past organizers of DroidYangon and of other events for their help and inspiration. The following is an incomplete list of organizations and conferences whose positive example, advice, and generosity have helped make DroidYangon the welcoming conference it is today.
 
 ## Organization
 

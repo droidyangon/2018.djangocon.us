@@ -1,13 +1,13 @@
 ---
 layout: base
 
-name: "Pizzeria Luigi"
+name: "Harry's Bar"
 hidden: false
-photo_url: "/static/img/places/pizzerialuigi.jpg"
-location: "2121 El Cajon Blvd"
-distance: "1.6mi away"
-map: "https://goo.gl/maps/rGmY7ukodrL2"
-website: "http://pizzerialuigi.com/"
+photo_url: "/static/img/places/harry.jpg"
+location: "Unit G-09, Ground Floor, Myanmar Plaza (HAGL) No.1 Industrial Rd"
+distance: "7.6km away"
+map: "https://goo.gl/maps/8vuYjLMSkMu"
+website: "https://www.tripadvisor.com/Restaurant_Review-g294191-d10298142-Reviews-Harry_s_Bar-Yangon_Rangoon_Yangon_Region.html"
 description: |
-    New York style pizza available by the slice. Eat in or have it delivered.
+   Harry's is Singapore's best dining and bar establishment to enjoy an ice cold brew and delectable treats, and it is now here in Myanmar!
 ---

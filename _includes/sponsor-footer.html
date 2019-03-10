@@ -1,23 +1,12 @@
 <div class="partner-footer section-pad">
   <h3 class="v-pad-bottom text-center">Our Sponsors</h3>
-{% assign sponsors_by_level = "Platinum|Gold|Supporters" | split: "|" %}
-{% for level in sponsors_by_level %}
-  <h4 class="lead min text-center swatch-color-teal">{{ level }}</h4>
+
+
+  <h4 class="lead min text-center swatch-color-teal">Venue</h4>
   <div class="row partner-list">
-    {% for sponsor in site.sponsors %}
-      {% if sponsor.level == level %}
-        {% unless sponsor.hidden %}
-          <div class="partner-block text-center">
-            <a href="{{ sponsor.url_target }}">
-              <img
-                class="partner-logo {{ sponsor.logo_orientation }}"
-                src="{{ sponsor.logo }}"
-                alt="{{ sponsor.name }} Logo" />
-            </a>
-          </div>
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
+      <img class="partner-logo landscape" src="/static/img/sponsors/tawwin.png" alt="Taw Win Garden Hotel">
+
   </div>
-{% endfor %}
+
+  
 </div>

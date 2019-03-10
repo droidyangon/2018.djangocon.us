@@ -1,13 +1,13 @@
 ---
 layout: base
 
-name: "Modern Times Beer"
+name: "Gloria Jean's Coffees"
 hidden: false
-photo_url: "/static/img/places/moderntimes.jpg"
-location: "3000 Upas St"
-distance: "2.9mi away"
+photo_url: "/static/img/places/coffee.jpg"
+location: "03-06B , Level 3, City Mall St.John."
+distance: "450m away"
 map: "https://goo.gl/maps/gqtth8X6FyS2"
 website: "http://www.moderntimesbeer.com"
 description: |
-    One of San Diego's best breweries with two tasting rooms in North Park and Point Loma.
+    Specialty coffeehouse chain offering gourmet blends in a variety of flavors, plus tea & pastries.
 ---

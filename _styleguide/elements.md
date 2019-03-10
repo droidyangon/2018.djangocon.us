@@ -111,7 +111,7 @@ spokane
   : An excellent place to host a conference
 
 Europe
-  : Not where DjangoCon US is held
+  : Not where DroidYangon is held
 
 Again, text is indented 4 spaces. (Put a blank line between each
 term/definition pair to spread things out more.)

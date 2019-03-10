@@ -18,7 +18,7 @@ from year-to-year. However, the goal with this logo is to highlight the casual,
 friendly, professional atmosphere of the conference and can be used for subsequent
 years with minimal alterations.
 
-<img class="styleguide-logo" src="https://djangocon.github.io/resources/us-2018/logo/logo.svg" alt="DjangoCon US logo">
+<img class="styleguide-logo" src="https://djangocon.github.io/resources/us-2018/logo/logo.svg" alt="DroidYangon logo">
 
 ### Typefaces
 
@@ -59,7 +59,7 @@ years with minimal alterations.
 
 <div class="row logo-set-wrap">
   <section class="logo-set column small-6 medium-4">
-    <img src="https://djangocon.github.io/resources/us-2018/logo/logo.svg" alt="DjangoCon US Logo">
+    <img src="https://djangocon.github.io/resources/us-2018/logo/logo.svg" alt="DroidYangon Logo">
     <ul class="download-links">
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.svg" download>logo-color.svg</a></li>
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.png" download>logo-color.png</a></li>
@@ -67,7 +67,7 @@ years with minimal alterations.
     </ul>
   </section>
   <section class="logo-set column small-6 medium-4">
-    <img src="https://djangocon.github.io/resources/us-2018/logo/logo-black.svg" alt="DjangoCon US Logo in Black">
+    <img src="https://djangocon.github.io/resources/us-2018/logo/logo-black.svg" alt="DroidYangon Logo in Black">
     <ul class="download-links">
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo-black.svg" download>logo-black.svg</a></li>
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo-black.png" download>logo-black.svg</a></li>
@@ -79,7 +79,7 @@ years with minimal alterations.
     </ul>
   </section>
   <section class="logo-set column small-6 medium-4">
-    <img src="https://djangocon.github.io/resources/us-2018/favicon/favicon.svg" alt="DjangoCon US Favicon">
+    <img src="https://djangocon.github.io/resources/us-2018/favicon/favicon.svg" alt="DroidYangon Favicon">
     <ul class="download-links">
       <li><a href="https://djangocon.github.io/resources/us-2018/favicon/favicon.svg" download>favicon.svg</a></li>
       <li><a href="https://djangocon.github.io/resources/us-2018/favicon/favicon.png" download>favicon.png</a></li>
@@ -87,7 +87,7 @@ years with minimal alterations.
     </ul>
   </section>
   <section class="logo-set column small-6 medium-4">
-    <img src="https://djangocon.github.io/resources/us-2018/favicon/favicon-black.svg" alt="DjangoCon US Favicon in Black">
+    <img src="https://djangocon.github.io/resources/us-2018/favicon/favicon-black.svg" alt="DroidYangon Favicon in Black">
     <ul class="download-links">
       <li><a href="https://djangocon.github.io/resources/us-2018/favicon/favicon-black.svg" download>favicon-black.svg</a></li>
       <li><a href="https://djangocon.github.io/resources/us-2018/favicon/favicon-black.png" download>favicon-black.png</a></li>
@@ -217,7 +217,7 @@ in the SVG file itself.
         <svg class="aid-icon card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.43 96.43"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>aid</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M37.8,66.48A3,3,0,0,1,36,64V62.68a1.19,1.19,0,0,1,1.31-1.25,1.63,1.63,0,0,1,1.06.31,17.17,17.17,0,0,0,9.78,3.18c3.24,0,7.29-1.74,7.29-7,0-4.49-2.55-6.3-8.29-8.17-4.55-1.49-10.22-4.3-10.22-11.22,0-5.67,4-9.54,9.47-10.22V24.91a1.15,1.15,0,0,1,1.18-1.18h1.5a1.15,1.15,0,0,1,1.18,1.18v3.3a15,15,0,0,1,6.92,2.24A2.77,2.77,0,0,1,58.93,33v1.5a1.11,1.11,0,0,1-1.18,1.18,2.11,2.11,0,0,1-1.06-.31c-1.56-.87-3.24-3.24-8.1-3.24-4.11,0-7,2-7,6.42,0,3.55,2.62,5.67,7,7.17,6.17,2.12,11.53,4.11,11.53,12.09,0,6.3-4.24,10.16-9.85,11v3.37a1.15,1.15,0,0,1-1.18,1.18h-1.5a1.15,1.15,0,0,1-1.18-1.18v-3.3A20,20,0,0,1,37.8,66.48Z"/><path class="cls-1" d="M48.22,96.43A48.22,48.22,0,1,1,96.43,48.22,48.27,48.27,0,0,1,48.22,96.43Zm0-86.43A38.22,38.22,0,1,0,86.43,48.22,38.26,38.26,0,0,0,48.22,10Z"/></g></g></svg>
         <div class="card-section">
           <h3 class="card-title">Apply for Financial Aid</h3>
-          <p>Please apply if you area  amember of an underrepresented group and you won’t be able to attend DjangoCon US without financial help. </p>
+          <p>Please apply if you area  amember of an underrepresented group and you won’t be able to attend DroidYangon without financial help. </p>
         </div>
       </div>
     </div>
@@ -240,7 +240,7 @@ element.
           <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 101"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>program</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M78,101H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0H78a5,5,0,0,1,5,5V96A5,5,0,0,1,78,101ZM10,91H73V10H10Z"/><path class="cls-1" d="M62,28H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,46h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,64h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M62,82H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/></g></g></svg>
           <div class="card-section">
             <h3 class="card-title" id="program">Program</h3>
-            <p>The DjangoCon US program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
+            <p>The DroidYangon program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
           </div>
         </div>
       </div>
@@ -262,7 +262,7 @@ element.
           <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 101"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>program</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M78,101H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0H78a5,5,0,0,1,5,5V96A5,5,0,0,1,78,101ZM10,91H73V10H10Z"/><path class="cls-1" d="M62,28H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,46h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,64h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M62,82H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/></g></g></svg>
           <div class="card-section">
             <h3 class="card-title" id="program">Program</h3>
-            <p>The DjangoCon US program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
+            <p>The DroidYangon program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
           </div>
         </div>
       </div>
@@ -303,7 +303,7 @@ element.
     <div class="row hero-content">
       <div class="column medium-6">
       <blockquote>
-        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <p>The talks at DroidYangon have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
         <cite>Rory McHenry<br>
           Director, Application Development PonyCorp
         </cite>
@@ -324,7 +324,7 @@ element.
     <div class="row hero-content">
       <div class="column medium-8 medium-centered">
       <blockquote>
-        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <p>The talks at DroidYangon have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
         <cite>Rory McHenry<br>
           Director, Application Development PonyCorp
         </cite>
@@ -345,7 +345,7 @@ element.
     <div class="row hero-content">
       <div class="column medium-6 medium-offset-6">
       <blockquote>
-        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <p>The talks at DroidYangon have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
         <cite>Rory McHenry<br>
           Director, Application Development PonyCorp
         </cite>

@@ -6,7 +6,7 @@ permalink: /financial-aid/
 redirect_from:
   - /about/financial-aid/
 description: |
-    As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
+    As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DroidYangon
 ---
 
 Our financial aid application is now closed and all decision notifications have been sent.
@@ -17,7 +17,7 @@ If you have any questions, feel free to reach out to the financial aid team at [
 
 ## Diversity Sponsorships
 
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.
+Your organization can help increase diversity at DroidYangon by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.
 
 <br>
 
@@ -29,7 +29,7 @@ You should have received your notification. If you haven't, please email the fin
 
 ### Do I need to be a speaker, first time attendee, or a member of an underrepresented group to receive aid?
 
-We try to allocate financial aid to a diverse set of attendees based on need. Our review process is holistic and takes into account many different factors, most importantly being the impact we think attending DjangoCon US will have on the applicant. {% comment %}We want to encourage everyone who needs aid to apply for it. Do not rule yourself out before you have even applied!{% endcomment %}
+We try to allocate financial aid to a diverse set of attendees based on need. Our review process is holistic and takes into account many different factors, most importantly being the impact we think attending DroidYangon will have on the applicant. {% comment %}We want to encourage everyone who needs aid to apply for it. Do not rule yourself out before you have even applied!{% endcomment %}
 
 ### When will I receive my aid?
 
